@@ -9,3 +9,6 @@ When I think about common applications I use, most buttons change in some way wh
 Specificity is the priority that CSS rules are given when multiple rules are assigned to one element. This can be used to reduce repetitive code. For example, your page may have multiple buttons. You may have one rule for buttons but, for certain ones that you want to look different (maybe a delete button), you can add a rule with higher specificity to change an aspect of that button's appearance. This way, you don't need to have a bunch of different button rules that are almost entirely the same.
 ## What problems do you think you could run into if you over-utilized the !important feature?
 I think my biggest problem is that I would forget about it. I'd think that I wrote a rule with higher specifity and then not understand why it wasn't displaying properly. So, my biggest problem would be wasting time. Along the same vein, if another developer came along and needed to add to my code, they would likely go through the same issues I forsee for myself.
+
+
+[My Daily Project 'CoolSite'](https://amanda-rice.github.io/CoolSite/)
