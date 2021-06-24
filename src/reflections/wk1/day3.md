@@ -10,3 +10,5 @@ I like the idea of changing the text color instead of size. I know, my natural g
 
 ##How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
 Website design can help portray the aesthetic of a company. If a company wants to be known as modern, they may design a sharp, modern-looking site. On the other hand, another company may want a more whimsical site. Companies can also accidentally portray things through their sites as well. If someone doesn't put the time into regularly updating a website, it can start looking dated. For me, this is especially impactful when I go to ecommerce sites. If it looks old, I don't trust it.
+
+[MyCloneSite](https://amanda-rice.github.io/cloneSite/)
