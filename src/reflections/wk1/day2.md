@@ -1,4 +1,5 @@
-# Intro to Codeworks
+# Intro to CSS
+
 ## What is a Pseudo-Class and what are some of the most common ones you think you will use
 A Pseudo-Class is a selector that runs on elements that are in a specific state. I think these are two pseudo-classes we will use:
 * example:hover

@@ -1,4 +1,4 @@
-# Intro to Codeworks
+# Wire-framing
 
 ## What is the purpose of wire-framing?
 
