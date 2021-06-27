@@ -1,4 +1,5 @@
-# Intro to Codeworks
+# Website Design
+
 ## What is your favorite tip that you think is the most beneficial to improving your design?
 I like the idea of changing the text color instead of size. I know, my natural go-to would be a size change. My favorite tip for this is reducing the opacity of white text to de-emphasize. This way, if you change the background color, you don't have to worry about changing text color.
 
