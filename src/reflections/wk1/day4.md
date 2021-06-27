@@ -2,6 +2,8 @@
 
 ## What is the purpose of wire-framing?
 
+Wire-framing is a way to mock-up a design before developers start working on it. There are different levels of detail based on where the team is in the development process. 
+
 ## What are the different levels of detail in wire-frames and why is each one useful?
 
 Low-fidelity wire-frames serve as a starting point for designing a website. These are a useful tool that can be drawn up quickly in a meeting. They can help map user flow and website navigation. 
@@ -14,3 +16,5 @@ High-fidelity wire-frames display pixel-specific layouts. Unlike lower fidelity 
 ## Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not?
 
 Yes! They are useful throughout the design process. Being able to give stakeholders updated visual representations throughout the process allows for small changes along the way. This makes it less likely for a team to complete a project only the find out the stakeholders had a different vision for the design.
+
+[JohnDeereClone](https://github.com/amanda-rice/JohnDeereClone)
