@@ -1,4 +1,4 @@
-# Read Intro to JS > Chrome Developer Tools and answer the following questions
+# Developer Tools
 ## What are the main ways to write information to the console? Why/when should you use each style.
 
 console.log() is used to log information to the console. This is often used for debugging and confirming the value of a variable at the time that console.log() was run.

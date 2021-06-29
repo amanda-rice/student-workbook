@@ -1,7 +1,7 @@
-# Read Intro to JS > JavaScript Functions and answer the following questions
+# JavaScript Functions
 ## What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?
 
-Function Declaration - Named function. Declared by using the word function and then the name you give it. When a function is decared, the function definition is hoisted so, it can be used before it is defined.
+Function Declaration - Named function. Declared by using the word function and then the name you give it. When a function is declared, the function definition is hoisted so, it can be used before it is defined.
 
 Function Expression - Can be named for anonymous. No hoisted so, they cannot be used before they are defined.
 
@@ -14,3 +14,5 @@ A parameter is defined and named as part of the function and receives the argume
 ## What are higher order functions? Can you provide an example?
 
 A function that returns a function or accepts another function as a parameter. For example, Array.prototype.map and Array.prototype.filter.
+
+[JavaScript Challenges Day 2](https://github.com/amanda-rice/js-tests-loops-and-arrays)
