@@ -4,3 +4,6 @@
 ## How do you find answers when you are stuck?
 
 ## From the entire article what are your biggest takeaways?
+
+
+[JavaScript Challenges Day 4](https://github.com/amanda-rice/slapgame)

@@ -12,3 +12,5 @@ The sources tab. Breakpoints can be added in the Code Editor which will then sho
 ## Outside of writing everything to the console, what is a better way to debug your code?
 
 A better way to debug your code is to use the debugger in the web browser's Dev Tools. There, you can add breakpoints to see values of variables at specific points in time. This negates your need to print them to the console and can clean up your code.
+
+[JavaScript Challenges Day 3](https://github.com/amanda-rice/RockPaperScissorsLizardSpock)
