@@ -3,6 +3,13 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
+Encapsulation: bundling data/methods to limit outside access.
+
+Abstraction: Process of selecting only the relevant data to reveal
+
+Inheritance: objects can acquire properties of another object
+
+Polyorphism: allows us to use a class just like its parent
 
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
@@ -21,17 +28,19 @@ staff[property]
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation: bundling data/methods to limit outside access.
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single Responsibility- Classes should only have one responsibility
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
+class -
 
+instance of class- 
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
