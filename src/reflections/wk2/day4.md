@@ -8,6 +8,6 @@ Making a plan allows you to lay out the outline for your code which can help you
 Google and existing code repositories are my number one resource when I am stuck. If I've time-boxed myself and I run out of time, I try to ask another developer. Sometimes, it only takes another set of eyes to see what's wrong.
 
 ## From the entire article what are your biggest takeaways?
-Not using the right data structures.
+If you realize your initial solution isn't the best approach, quit then and start over. It's better to fail early than to have to rewrite everything down the line. Also, don't reinvent the wheel. Use the tools already created and widely available when possible.
 
 [JavaScript Challenges Day 4](https://github.com/amanda-rice/slapgame)
