@@ -9,3 +9,6 @@ When there are multiple async operations, promises can be chained which cleans u
 ## What is the difference between .then() and .catch()?
 - Then() is called if the Promise is resolved.
 - Catch() is called if the Promise is rejected. 
+
+
+[Vending Machine](https://github.com/amanda-rice/vending-machine)
