@@ -1,6 +1,6 @@
-# Read Asynchronous Code > What is REST and answer the following questions
-## What does REST stand for, and in simple terms what does it mean?
+# Read Advancing with JS > The Observer Pattern and answer the following questions
+## What problems does the Observer Pattern seek to solve?
 
-## What does Stateless mean?
+## What are the three mechanisms of the observer pattern?
 
-## What URL pattern is used when writing a RESTful API?
+## Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.

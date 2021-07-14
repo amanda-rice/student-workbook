@@ -1,14 +1,9 @@
-# Read Asynchronous Code > JavaScript Promises and answer the following questions
-## What are the three states of a Promise?
-- Pending: Before the promise has failed or resolved
-- Resolved: a promise that completed
-- Rejected: a promised that has failed
-## How do promises seek to resolve the issues of "callback hell"?
-When there are multiple async operations, promises can be chained which cleans up the code. It allows for multiple then statements in a row followed at the end by one catch.
+# Read Advancing with JS > Encapsulation in JavaScript and answer the following questions
+## What is the purpose of Encapsulation?
 
-## What is the difference between .then() and .catch()?
-- Then() is called if the Promise is resolved.
-- Catch() is called if the Promise is rejected. 
+## What were some of the problems with closures and the underscore prefix?
+
+## How do we create private variables in a ES6 Class? Why would you do this?
 
 
 [Vending Machine](https://github.com/amanda-rice/vending-machine)

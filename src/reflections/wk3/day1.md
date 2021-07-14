@@ -1,19 +1,13 @@
-# Callback Hell
-## What are some of the signs and causes of Callback Hell?
-An obvious sign is long, pyramid shaped the code. It's often caused by developers not understanding the order tasks execute in a program.
+# Read Advancing with JS > ES6 modules and answer the following questions
+## What problem does using exports solve?
+It prevents you from having to list all of your scripts at the bottom of your HTML. Instead, they are concatenated in the main class.
 
-## What does the asynchronous mean and how are callbacks involved?
-Asynchronous means 'takes time'. Callbacks are usually used when talking to databases and downloading. We know these will take longer than other processes so, we come back to them and run the callbacks when they finish.
+## How does export differ from export default?
+Export- allows you to export multiple. It is often used for big utility classes.
 
-## Summarize the 3 ways to avoid / fix Callback Hell
-Write Shallow Code:
-- Name functions: Gives stacktraces when you get exceptions. Increases readability of code. Functions can be moved.
+Export default- only one export allowed.
 
-Modularize:
-- Write modules that only do one thing and group them into bigger modules
-
-Handle all errors:
-- Makes your code stable.
-- Always plan on errors happening so they're more easy to debug when they do happen.
+## What is a benefit of using the Module System?
+Code is split into many smaller files which accomplish one task. This makes debugging easier and allows multiple people to edit the same application at the same time without stepping on toes.
 
 [Zoo - Objects](https://github.com/amanda-rice/zoo.git)
