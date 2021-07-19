@@ -1,4 +1,4 @@
-# Read Advancing with JS > The Observer Pattern and answer the following questions
+# Observer Pattern
 ## What problems does the Observer Pattern seek to solve?
 It prevents the application from having to run functions manually every time something on the page needs to be updated. It allows multiple elements to stay synced.
 

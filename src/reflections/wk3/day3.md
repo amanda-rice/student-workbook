@@ -1,4 +1,4 @@
-# Read Advancing with JS > An Intro to Javascript Proxy Objects and answer the following questions
+# Proxy Objects
 ## What are the two common operations that we will set in the handler?
 Get and trap. The handler has a set of traps that are activated when an object property is accessed.
 

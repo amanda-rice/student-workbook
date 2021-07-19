@@ -1,4 +1,4 @@
-# Read Advancing with JS > Encapsulation in JavaScript and answer the following questions
+# Encapsulation in Javascript
 ## What is the purpose of Encapsulation?
 It prevents access of data from the outside. Only the object's methods that call the state have access to it.
 

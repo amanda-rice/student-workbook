@@ -1,4 +1,4 @@
-# Read Advancing with JS > ES6 modules and answer the following questions
+# Modules
 ## What problem does using exports solve?
 It prevents you from having to list all of your scripts at the bottom of your HTML. Instead, they are concatenated in the main class.
 
