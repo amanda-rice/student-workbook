@@ -16,4 +16,4 @@ Handle all errors:
 - Makes your code stable.
 - Always plan on errors happening so they're more easy to debug when they do happen.
 
-[Zoo - Objects](https://github.com/amanda-rice/zoo.git)
+[Trivia](https://github.com/amanda-rice/trivia)

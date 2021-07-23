@@ -11,4 +11,4 @@ When there are multiple async operations, promises can be chained which cleans u
 - Catch() is called if the Promise is rejected. 
 
 
-[Vending Machine](https://github.com/amanda-rice/vending-machine)
+[Greg's List-API](https://amanda-rice.github.io/gregs-list-jobs-houses/)
