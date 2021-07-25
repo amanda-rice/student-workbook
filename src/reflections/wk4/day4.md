@@ -1,4 +1,4 @@
-# Read Asynchronous Code > What is REST and answer the following questions
+RESTful Pattern
 ## What does REST stand for, and in simple terms what does it mean?
 Rest is REpresentational State Transfer. It's a design pattern where API's transfer a representation of the state to the client.
 
