@@ -7,3 +7,5 @@ The query parameter starts with a question mark. If there are multiple parameter
 
 ## When do you think Query parameters would be helpful when writing your server?
 I think they would be helpful to filter or sort criteria. Also, they would be an easy way to go directly to  certain page.
+
+[Burger API](https://github.com/amanda-rice/burgers)
