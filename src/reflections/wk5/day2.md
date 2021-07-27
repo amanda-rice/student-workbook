@@ -11,3 +11,5 @@ Embedding has a maximum document size of 16mb. For larger datasets, linking avoi
 
 ## What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it? 
 Say we have books and genre. We could embed genres directly into books because there aren't that many genres. However, we would not want to embed books into genres since there are many more books and they are always changing. If you know there are several relationships, the Third Collection design can be most efficient. It holds foreign keys which link the data together.
+
+[Gregslist Node](https://github.com/amanda-rice/late-summer21-gregslist-node)
