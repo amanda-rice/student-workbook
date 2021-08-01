@@ -1,4 +1,4 @@
-# Read Servers with Node/Express > MongoDb Relationships and answer the following questions
+# MongoDb Relationships
 ## What is a virtual property?
 The virtual properties are additional functions that return data using the schema fields. For example, they can concatenate first and last names and return a full name.
 
