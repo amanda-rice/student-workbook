@@ -39,7 +39,8 @@ let Schema = ________.Schema;
 ```
 <!-- enter you answer in the space below -->
 ```
-
+import mongoose from 'mongoose'
+let Schema = mongoose.Schema
 ```
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
@@ -49,11 +50,11 @@ Acts as a middle-man between the operating system/database and web applications.
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+Request Pipeline delivers information and the Response Pipeline returns it
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+?tag=winter
 ```
