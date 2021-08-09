@@ -1,4 +1,4 @@
-# Read Frontend Frameworks with Vue3 > How to use Props in Vue and answer the following questions
+# How to use Props in Vue
 ## What are props?
 Props allow us to pass information between components. They must be passed from parent to child and cannot be sent the other way. The child cannot modify this info.
 ## What are props used for?
