@@ -8,4 +8,4 @@ We have use mounted to bring in data from API's to draw on page load. We also us
 ## What are mounting hooks? When might you use them?
 They allow access to a component right before and after the first render. They don't run on the server side rendering. You might use them to bring in data on or before loading your page.
 
-[blog](https://github.com/amanda-rice/blog)
+[GregsList Vue](https://github.com/amanda-rice/late-summer21-gregslist-vue)
