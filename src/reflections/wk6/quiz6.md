@@ -28,17 +28,17 @@ Liskov’s Substitution Principle.
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-
+App.vue
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+AppState is global and the state object are local.
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-
+Services talk to and update API's
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
