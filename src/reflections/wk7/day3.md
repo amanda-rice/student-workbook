@@ -8,3 +8,5 @@ One of the main benefits is people actually using your page. If they don't feel 
 
 ## Why is the User Experience important?
 It doesn't matter how great your site is if no one uses it. It's important to focus on UX so users are comfortable using the site and they come back.
+
+[Sprintr](https://github.com/amanda-rice/sprintr)

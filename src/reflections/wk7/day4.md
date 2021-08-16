@@ -8,3 +8,5 @@ I think the pair programming helped us catch errors early on. Also, there were l
 
 ## What would you do differently?
 When we weren't 100% sure on something, I think the pair programming actually hindered us because we didn't get to follow our individual thought processes out fully. In the future, I would suggest stopping when we got to difficult spots and individually researching it and coming back together to decide what to do. I think we sometimes confused each other when we were trying to sound out our solutions on the fly.
+
+[Sprintr](https://github.com/amanda-rice/sprintr)

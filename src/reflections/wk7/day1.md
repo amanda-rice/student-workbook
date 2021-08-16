@@ -7,3 +7,5 @@ Better quality code. High potential for learning from partner. Helpful way to ge
 
 ## What are some drawbacks to Pair Programming?
 It requires both programmers to be actively engaging. If it's not done well, it can 'double costs'. Requires two people to work very closely with each other. Pairs need to be made up of people who work well together.
+
+[Sprintr](https://github.com/amanda-rice/sprintr)
