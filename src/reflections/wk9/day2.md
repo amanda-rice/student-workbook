@@ -6,3 +6,8 @@ Github actions are rules (workflows) that you declare in your repository with YA
 They save time by running actions automatically. You can also set up notifications for events such as someone stars a repo.
 
 ## What types of trigger actions can a workflow use? What do they do?
+Scheduled: trigger a workflow at a set time
+
+Webhooks: sends data to an endpoint
+
+External: triggers workflow from another repository
