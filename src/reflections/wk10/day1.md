@@ -1,4 +1,5 @@
-# C# Data Types and answer the following questions
+# C# Data Types
+
 ## What are the three categories of data types? How are they different?
 Value Types: Directly holds data in the variable. For example, int, char, enum, struct. Default value cannot be null since the data types holds a value.
 
@@ -11,3 +12,5 @@ Directly holds data in the variable. For example, int, char, enum, struct. Defau
 
 ## In your own words how do Reference types get stored in memory? How does this differ from Value types?
 Reference types get stored as a path to the value. With value types, the value is directly stored in the data type.
+
+[Rock Paper Scissors C#](https://github.com/amanda-rice/rpsCSharp)

@@ -1,4 +1,5 @@
-# Welcome to SQL, and answer the following questions
+# Welcome to SQL
+
 ## In a SQL table, what is the difference between information in a row and information in a column?
 Each column is a category of data to be input. The rows are individual records that include data for each column.
 
@@ -15,3 +16,5 @@ DELETE FROM table_name: deletes rows from table_name
 
 DROP TABLE table_name: deletes the table table_name
 
+
+[Castles](https://github.com/amanda-rice/castles)
