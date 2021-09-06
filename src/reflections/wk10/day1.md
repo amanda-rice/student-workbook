@@ -1,9 +1,13 @@
-# Capstone Project Check-in
-## What technologies and principles are you using in your project?
-We are using Vue.js, javascript, JSON, MongoDB, and Auth0. We are also using the Boardgame Atlas API.
+# C# Data Types and answer the following questions
+## What are the three categories of data types? How are they different?
+Value Types: Directly holds data in the variable. For example, int, char, enum, struct. Default value cannot be null since the data types holds a value.
 
-## What went well so far?
-We split the project up into two smaller apps and switched the teams every day. This meant that everyone got to touch every part of the application. We also had a floater board for whoever was floating that day since there were 5 team members. Any time we thought of something that needed to be done but wasn't necessarily something we needed two people working on, we'd add it to the floater board. Some examples were creating the background for our app, putting together the logo, and creating the Readme.
+Reference Types: Doesn't directly hold the data. Stores a pointer to where the value is stored. Ex: string, class, array. Default value is null.
 
-## What would you do differently? Why?
-I would make sure we were thoroughly testing as we went while writing the backend. We stalled out a bit when one of the apps finally got tested adn there were a lot of issues that needed to be fixed. Also, we spent a lot of time in the mornings getting situated in our new pairs and we could have communicated better about what we had gotten done the day before in our stand ups.
+Pointer Type: Holds the address of another type in memory. Cannot point to a reference type.
+
+## What are the Value-type data types? What differences do you notice from JavaScript?
+Directly holds data in the variable. For example, int, char, enum, struct. Default value cannot be null since the data types holds a value.
+
+## In your own words how do Reference types get stored in memory? How does this differ from Value types?
+Reference types get stored as a path to the value. With value types, the value is directly stored in the data type.
