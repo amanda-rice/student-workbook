@@ -15,4 +15,4 @@ Unified Communications SSL Certificate: Displays padlock in address bar. Cover m
 Single Domain SSL Certificate: Only protect one domain and not its subdomains.
 
 ## What are some benefits of using SSL certificates?
-Your URL starts with HTTPS instead of HTTP and you may have a padlock icon. These let users know your site is secure. THey keep the data between teh server and the browser secure.
+Your URL starts with HTTPS instead of HTTP and you may have a padlock icon. These let users know your site is secure. THey keep the data between teh server and the browser secure./
