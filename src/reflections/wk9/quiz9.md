@@ -28,7 +28,7 @@ A factory is a class with a method that creates and returns objects based on the
 **6.** What is test driven development?
 <!-- enter you answer in the space below -->
 ```
-Test cases are developed based on what a program shoudl do. Then, the app is tested while being developed. If the test fails, the code is fixed before moving on. 
+Test cases are developed based on what a program should do. Then, the app is tested while being developed. If the test fails, the code is fixed before moving on. 
 ```
 **7.** In Scrum/Agile what is the DoD?
 <!-- enter you answer in the space below -->
