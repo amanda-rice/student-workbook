@@ -39,4 +39,4 @@ CREATE TABLE doctorPatients (
     REFERENCES patients(id),
 )
 
-[Castles](https://github.com/amanda-rice/castles)
+[Bloggr](https://github.com/amanda-rice/blogger)

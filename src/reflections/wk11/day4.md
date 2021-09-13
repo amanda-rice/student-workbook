@@ -5,4 +5,3 @@ I don't have many concerns right now. I think I'm pretty good at managing time a
 
 I've really enjoyed the checkpoints. It's really cool to see everything I've learned in a week come together. It's also crazy to go back to the first few checkpoints and see how simple they were and how far I've come. 
 
-[Amazen](https://github.com/amanda-rice/AmaZen)

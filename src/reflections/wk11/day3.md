@@ -10,4 +10,4 @@ Server Variables: HTTP headers and other server variables containing SQL can man
 ## How can we detect and sanitize SQL injection attacks?
 We can use tools like SQLmap, Havij, and SQLninja to test the safety of our code. We can protect our application by sanitizing our code and using tools such as Dapper.
 
-[Contracted](https://github.com/amanda-rice/contracted)
+[Amazen](https://github.com/amanda-rice/AmaZen)
